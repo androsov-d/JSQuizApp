@@ -29,7 +29,7 @@ const questions = [
     ],
   },
   {
-    question: "Would you like to die?",
+    question: "Would you like to be a hero?",
     answers: [
       {
         value: "Of course!",
